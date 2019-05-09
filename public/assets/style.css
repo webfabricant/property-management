@@ -9,10 +9,10 @@ Version: 1.0
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
-# Typography 
-    ## copy 
-    ## headings 
-    ## typography 
+# Typography
+    ## copy
+    ## headings
+    ## typography
 # Elements
 	## elements
 	## lists
@@ -33,7 +33,7 @@ Version: 1.0
 # Clearings
 # Layout
     ## Header Part
-    	## Sign In/Sign Up Pop up 
+    	## Sign In/Sign Up Pop up
     ## Slider Part
     ## Category Menu Part
     ## Abaility Part
@@ -2647,7 +2647,7 @@ pagination
   letter-spacing: normal;
   color: #3d3d3d;
   text-transform: uppercase;
-  padding: 10px 26px;
+  padding: 10px 15px;
   font-weight: 700;
 }
 @media only screen and (max-width: 1200px) and (min-width: 992px) {
@@ -3105,8 +3105,8 @@ pagination
   }
 }
 
-/* -------------------------------- 
-Sign In/Sign Up Pop up 
+/* --------------------------------
+Sign In/Sign Up Pop up
 -------------------------------- */
 .cd-user-modal {
   position: fixed;
