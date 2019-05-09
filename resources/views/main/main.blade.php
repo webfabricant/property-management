@@ -176,7 +176,9 @@
                                     <li>
                                         <a href="#">Sales Information</a>
                                         <ul class="sub-menu">
-                                            <a href="#">View APM for Rent</a>
+                                            <li>
+                                                <a href="#">View APM for Rent</a>
+                                            </li>
                                         </ul>
                                     </li>
                                     <li>
